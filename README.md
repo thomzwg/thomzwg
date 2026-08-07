@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About me
-Hi, my name is Thom Zwagers (Netherlands, 1976). I'm a meteorologist and started programming in BASIC at the age of 9 on a ZX81. Nearly 40 years and several computers/programming languages later, I'm mostly programming for fun, but also to make my work in the weather room easier.
+Hi, my name is Thom Zwagers (Netherlands, 1976). I'm a meteorologist and software developer at the National Weather Service in The Netherlands. I started programming in BASIC at the age of 9 on a ZX81. Well over 4 decades and several computers/programming languages later, I'm mostly programming for fun, but also to make my work in the weather room easier.
 
 Besides programming, I love running, visiting English football matches, meteorology, old computers and comics (not American comics with superheroes).
 
